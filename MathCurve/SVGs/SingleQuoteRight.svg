@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg2841"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <defs
+     id="defs2838" />
+  <g
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path56"
+       d="m 174.4732,44.787413 c -3.42436,4.403484 -3.05432,11.134594 0.70313,15.227682 4.48577,5.179812 12.73143,6.114528 18.47813,2.530542 6.48965,-3.761609 9.92669,-11.546784 9.29076,-18.896914 -0.36203,-4.467677 -1.75194,-8.846639 -4.17129,-12.631543 -2.90325,-4.683964 -7.03088,-8.599516 -11.64383,-11.596217 -4.2098,-2.709242 -8.8394,-4.737408 -13.53337,-6.191793 3.05321,4.253485 5.84871,8.871341 8.12491,13.838304 1.91146,4.171047 3.66143,8.303262 4.57119,14.012447 -4.19722,-1.620045 -9.14396,0.331903 -11.81963,3.707492 z" />
+  </g>
+  <metadata
+     id="metadata2933">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

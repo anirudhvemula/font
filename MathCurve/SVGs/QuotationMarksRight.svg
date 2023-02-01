@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg2841"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <defs
+     id="defs2838" />
+  <g
+     id="layer1"
+     style="display:inline">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path56"
+       d="m 173.94418,44.787413 c -3.42436,4.403484 -3.05431,11.134594 0.70314,15.227682 4.48574,5.179812 12.73135,6.114528 18.47803,2.530542 6.48961,-3.761609 9.92662,-11.546784 9.2907,-18.896914 -0.36203,-4.467677 -1.75193,-8.846639 -4.17126,-12.631543 -2.90324,-4.683964 -7.03084,-8.599516 -11.64377,-11.596217 -4.20978,-2.709242 -8.83934,-4.737408 -13.53331,-6.191793 3.05321,4.253485 5.84869,8.871341 8.12488,13.838304 1.91145,4.171047 3.66141,8.303262 4.57117,14.012447 -4.1972,-1.620045 -9.14392,0.331903 -11.81958,3.707492 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.01992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path922"
+       d="m 139.01883,44.787413 c -3.42439,4.403484 -3.05434,11.134594 0.70313,15.227682 4.48579,5.179812 12.7315,6.114528 18.47824,2.530542 6.48968,-3.761609 9.92671,-11.546784 9.29078,-18.896914 -0.36203,-4.467677 -1.75194,-8.846639 -4.17128,-12.631543 -2.90328,-4.683964 -7.03092,-8.599516 -11.64391,-11.596217 -4.20982,-2.709242 -8.83944,-4.737408 -13.53344,-6.191793 3.05323,4.253485 5.84874,8.871341 8.12495,13.838304 1.91147,4.171047 3.66145,8.303262 4.57123,14.012447 -4.19725,-1.620045 -9.14403,0.331903 -11.8197,3.707492 z" />
+  </g>
+  <metadata
+     id="metadata2933">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
