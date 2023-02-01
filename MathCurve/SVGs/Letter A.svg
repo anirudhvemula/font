@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg2841"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3701">Deltoid</title>
+  <defs
+     id="defs2838" />
+  <g
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path4443"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 132.36866,23.812506 c 0,0 -0.0409,6.169543 -1.58285,17.182931 -1.54194,11.013357 -4.64146,26.779481 -9.67124,44.03142 -5.02979,17.251983 -11.98592,35.859923 -19.73781,52.342603 -7.751882,16.48269 -16.235765,30.74478 -23.348966,40.85073 -7.113178,10.10594 -12.767884,16.04796 -15.075564,18.23868 -2.30768,2.1907 -1.208302,0.71099 3.821472,-2.24896 5.029803,-2.95999 13.986049,-7.28148 25.587584,-10.56008 11.601514,-3.27863 25.780934,-5.42964 40.007374,-5.42964 14.22638,0 28.4064,2.15101 40.0079,5.42964 11.60154,3.2786 20.55778,7.60009 25.58758,10.56008 5.02978,2.95995 6.12915,4.43966 3.82147,2.24896 -2.30768,-2.19072 -7.96288,-8.13274 -15.07608,-18.23868 -7.1132,-10.10595 -15.59705,-24.36804 -23.34896,-40.85073 -7.75187,-16.48268 -14.70751,-35.09062 -19.7373,-52.342603 -5.0298,-17.251939 -8.12981,-33.018063 -9.67176,-44.03142 -1.54195,-11.013388 -1.58285,-17.182931 -1.58285,-17.182931 z m -0.077,19.578132 c 0,0 0.0342,5.160391 1.32396,14.372251 1.28972,9.211834 3.88237,22.399344 8.08942,36.829275 4.20703,14.430016 10.02522,29.993826 16.50907,43.780326 6.48388,13.78651 13.57991,25.71561 19.52956,34.16846 5.94965,8.45285 10.67937,13.42303 12.60957,15.2554 1.93019,1.83236 1.01083,0.59475 -3.19619,-1.88102 -4.20705,-2.47581 -11.6985,-6.09075 -21.40231,-8.83305 -9.70377,-2.74232 -21.56379,-4.54133 -33.46308,-4.54133 -11.89933,0 -23.75981,1.79901 -33.463584,4.54133 -9.703747,2.7423 -17.19475,6.35724 -21.401794,8.83305 -4.207021,2.47577 -5.126903,3.71338 -3.196706,1.88102 1.930198,-1.83237 6.660454,-6.80255 12.610083,-15.2554 5.949628,-8.45285 13.0457,-20.38195 19.529561,-34.16846 6.48386,-13.7865 12.30204,-29.35031 16.50907,-43.780326 4.20703,-14.429931 6.7997,-27.617441 8.08942,-36.829275 1.28973,-9.21186 1.32395,-14.372251 1.32395,-14.372251 z" />
+  </g>
+  <metadata
+     id="metadata2933">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:title>Deltoid</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
