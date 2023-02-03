@@ -1,0 +1,1 @@
+Contains primary symbols (TTF)
